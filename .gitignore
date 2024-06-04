@@ -1,0 +1,13 @@
+/.idea
+/.venv
+void.txt
+/start_data
+/work_data
+main.ipynb
+__pycache__/
+
+../classes/__pycache__
+../functions/__pycache__
+
+models/
+

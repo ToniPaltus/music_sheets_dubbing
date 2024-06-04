@@ -1,0 +1,10 @@
+# install it into your env use the following command:
+# --> pip install -r requirements.txt
+
+opencv-python
+numpy
+matplotlib
+split-folders
+tensorflow
+jupyter
+ultralytics
